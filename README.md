@@ -41,11 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackGhost1122&layout=compact&theme=radical" alt="Популярные языки" />
 </p>
 
-### 📘 Проекты
-
-- [AM-DOS-LINUX](https://github.com/BlackGhost1122/AM-DOS-LINUX) - Операционная система AM DOS LINUX.
-- [MOSIF-Micro-Operating-System-Integration-Framework-DOS](https://github.com/BlackGhost1122/MOSIF-Micro-Operating-System-Integration-Framework-DOS) - Micro Operating System Integration Framework (DOS).
-
 ---
 
 <p align="center">
